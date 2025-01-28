@@ -5,8 +5,8 @@
 
 # Task List
 
-- [ ] Complete Git Tutorial
-- [ ] Add screenshots to [README.md](README.md)
-- [ ] Modify [.html](index.html) file
-- [ ] Merge latest changes
+- [x] Complete Git Tutorial
+- [x] Add screenshots to [README.md](README.md)
+- [x] Modify [.html](index.html) file
+- [x] Merge latest changes
 - [ ] Review pull requests
