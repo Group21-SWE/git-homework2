@@ -15,3 +15,7 @@ git push origin YOUR_BRANCH
 
 - [ ] Task 1
 - [x] Task 2
+
+# Tutorial Progress
+![Main Progress Haven](img/tutorial_progress_main_hbrown.png "Main Progress")
+![Remote Progress Haven](img/tutorial_progress_remote_hbrown.png "Remote Progress")
