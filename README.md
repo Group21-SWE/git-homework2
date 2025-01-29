@@ -17,3 +17,7 @@ Screenshot
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/Group21-SWE/HW1/blob/main/LICENSE.md)
 [![Platform](https://img.shields.io/badge/Platform-Linux-blue?logo=linux&labelColor=black)](https://www.linux.org/)
 [![Branching Practice](https://img.shields.io/badge/BranchingPractice-blue)](https://learngitbranching.js.org/)
+
+# Tutorial Progress
+![Main Progress Haven](img/completedGitLevels.png "Main Progress")
+![Remote Progress Haven](img/remoteProgress.png "Remote Progress")
