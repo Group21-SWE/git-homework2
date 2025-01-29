@@ -9,6 +9,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Linux-blue?logo=linux&labelColor=black)](https://www.linux.org/)
 [![Branching Practice](https://img.shields.io/badge/BranchingPractice-blue)](https://learngitbranching.js.org/)
 
+<<<<<<< HEAD
 # Task List
 
 - [x] Complete Git Tutorial
@@ -38,3 +39,8 @@ git push origin YOUR_BRANCH
 # Tutorial Progress
 ![Main Progress Haven](img/tutorial_progress_main_hbrown.png "Main Progress")
 ![Remote Progress Haven](img/tutorial_progress_remote_hbrown.png "Remote Progress")
+=======
+# Tutorial Progress
+![Main Progress Haven](img/completedGitLevels.png "Main Progress")
+![Remote Progress Haven](img/remoteProgress.png "Remote Progress")
+>>>>>>> asharm67
